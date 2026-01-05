@@ -5,7 +5,7 @@ export const pool = new Pool({
   user: "invent_user",
   host: "localhost",
   database: "inventario",
-  password: "1997",
+  password: "12345",
   port: 5432,
 });
 
